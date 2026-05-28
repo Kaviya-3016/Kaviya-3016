@@ -1,6 +1,10 @@
-![Uploading NewGameAhagonUmikoProgrammingGIF.gif…]()
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400"></p></br>
+  <h1 align="center">Hello WorldI'm Kaviya 😊👋 </h1>
+  
+</p>
 
-## Hi I'm Kaviya 😊👋
+                                
 
 <!--
 **Kaviya-3016/Kaviya-3016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
