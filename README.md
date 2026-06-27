@@ -1,18 +1,11 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400"></p></br>
-  <h1 align="center">Hello WorldI'm Kaviya 😊👋 </h1>
-  
-</p>
-
-                                
 <div align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 </div>
 
-<h1 align="center">Hi, I'm Kaviya Murugan 👋</h1>
+<h1 align="center">Hi, I'm Kaviya 👋</h1>
 
 <p align="center">
-  <b>ECE Graduate • AI/ML Engineer • Embedded Systems Developer • Immediate Joiner</b><br/>
+  <b>ECE Graduate • AI/ML Engineer • Software Engineer • Web Developer •Embedded Systems Developer • Immediate Joiner</b><br/>
   Tamil Nadu, India 🇮🇳
 </p>
 
